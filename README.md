@@ -1,12 +1,9 @@
 ## 👋 &nbsp;Hey there! I'm Matias Marangone
 
-- 🔭 I’m currently working as Business Technology Solutions lead for Data & Patients in the Pharma Industry
-- 🌱 I’m currently learning Data Science, WEB Development and Blockchain
-- 👯 I’m looking to collaborate on Tech in Health Industry
-- 🤔 I’m looking for help with Node.JS and Blockchain
-- 💬 Ask me about the last book I've read
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a 3D Printer at home and I like to play with it
+- 🔭 I’m currently working as Sr. Business Analyst in New Zealand government
+- 🌱 I’m currently learning AI & Robotics
+- 👯 I’m looking to collaborate on Tech in Govt Industry
+- 🤔 I’m looking for help with RAGs, AWS and Claude Code
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -31,6 +28,5 @@
 <a href="https://www.linkedin.com/in/matiasmarangone/"><img src="https://img.shields.io/badge/-matiasmarangone-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:matiasemarangone@gmail.com"><img src="https://img.shields.io/badge/-matiasemarangone@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/matias.marangone"><img src="https://img.shields.io/badge/-@matias.marangone-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://github.com/matiasmarangone"><img src="https://img.shields.io/github/followers/matiasmarangone?style=social"/></a>
 
 </p>
